@@ -41,4 +41,3 @@ A fundamental package for scientific computing in Python.
 
 pip install numpy
 
-Implementation Steps
